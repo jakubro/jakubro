@@ -5,12 +5,12 @@
 
 # I build open tools for understanding your data
 
-`// The AI is the easy part.`
+`// Everything else, AI included, is downstream.`
 
 Everything pinned below is open source, runs on your own machine, and answers to nobody's pricing page. That is not incidental.
 
-Most of my time goes into one data platform, end to end: a billion messages a year through it. Before that, software engineering across healthtech, aesthetics tech, e-government and freelance work.
+Most of my time goes into one data platform, end to end: billions of messages a year through it. Before that, software engineering across healthtech, aesthetics tech, e-government and freelance work.
 
-Same pattern the whole way through: before AI delivers value, the team has to agree on what the numbers mean. So that's where I'm putting my time.
+Same pattern the whole way through: the people who own the data have to understand it first. So that's where I'm putting my time.
 
 [hello@jakubroman.com](mailto:hello@jakubroman.com) · [jakubroman.com](https://jakubroman.com) · [LinkedIn](https://www.linkedin.com/in/jakubroman)
